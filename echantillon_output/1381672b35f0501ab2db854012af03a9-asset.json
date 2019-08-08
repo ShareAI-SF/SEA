@@ -1,0 +1,52 @@
+{
+    "asset": {
+        "id": "1381672b35f0501ab2db854012af03a9",
+        "format": "jpg",
+        "state": 2,
+        "type": 1,
+        "name": "GOPRO5.jpg",
+        "path": "https://surftestvott.blob.core.windows.net/input/GOPRO5.PNG?sv=2018-03-28&ss=b&srt=sco&sp=rwdlac&se=2019-09-13T23:25:10Z&st=2019-06-13T15:25:10Z&spr=https&sig=ZyIJgyVpKoohY6jGZX4Ovcj626VrPw7Cwu6uk0C0qHk%3D",
+        "size": {
+            "width": 622,
+            "height": 447
+        }
+    },
+    "regions": [
+        {
+            "id": "tuYRhKKjy",
+            "type": "POLYGON",
+            "tags": [
+                "other"
+            ],
+            "boundingBox": {
+                "height": 12.331034482758621,
+                "width": 28.76300578034682,
+                "left": 339.5061932287366,
+                "top": 279.58372844827585
+            },
+            "points": [
+                {
+                    "x": 339.5061932287366,
+                    "y": 279.58372844827585
+                },
+                {
+                    "x": 340.53344343517756,
+                    "y": 289.3457974137931
+                },
+                {
+                    "x": 351.3195706028076,
+                    "y": 291.9147629310345
+                },
+                {
+                    "x": 368.2691990090834,
+                    "y": 287.29062500000003
+                },
+                {
+                    "x": 360.05119735755574,
+                    "y": 281.1251077586207
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

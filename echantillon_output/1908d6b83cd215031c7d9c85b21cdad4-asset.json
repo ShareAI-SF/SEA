@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "id": "1908d6b83cd215031c7d9c85b21cdad4",
+        "format": "jpg",
+        "state": 2,
+        "type": 1,
+        "name": "IMG_20190623_141758.jpg",
+        "path": "https://surftestvott.blob.core.windows.net/input/IMG_20190623_141758.jpg?sv=2018-03-28&ss=b&srt=sco&sp=rwdlac&se=2019-09-13T23:25:10Z&st=2019-06-13T15:25:10Z&spr=https&sig=ZyIJgyVpKoohY6jGZX4Ovcj626VrPw7Cwu6uk0C0qHk%3D",
+        "size": {
+            "width": 3000,
+            "height": 4000
+        }
+    },
+    "regions": [
+        {
+            "id": "F3cM3errm",
+            "type": "POLYGON",
+            "tags": [
+                "drinking_bottle"
+            ],
+            "boundingBox": {
+                "height": 43.01075268817204,
+                "width": 80.64516129032258,
+                "left": 1400.5376344086021,
+                "top": 1817.2043010752686
+            },
+            "points": [
+                {
+                    "x": 1475.8064516129032,
+                    "y": 1817.2043010752686
+                },
+                {
+                    "x": 1400.5376344086021,
+                    "y": 1849.4623655913977
+                },
+                {
+                    "x": 1422.0430107526881,
+                    "y": 1860.2150537634407
+                },
+                {
+                    "x": 1481.1827956989246,
+                    "y": 1849.4623655913977
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

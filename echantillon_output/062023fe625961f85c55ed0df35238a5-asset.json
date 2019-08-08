@@ -1,0 +1,52 @@
+{
+    "asset": {
+        "id": "062023fe625961f85c55ed0df35238a5",
+        "format": "JPG",
+        "state": 2,
+        "type": 1,
+        "name": "IMG_4144.JPG",
+        "path": "https://surftestvott.blob.core.windows.net/input/IMG_4144.JPG?sv=2018-03-28&ss=b&srt=sco&sp=rwdlac&se=2019-09-13T23:25:10Z&st=2019-06-13T15:25:10Z&spr=https&sig=ZyIJgyVpKoohY6jGZX4Ovcj626VrPw7Cwu6uk0C0qHk%3D",
+        "size": {
+            "width": 6000,
+            "height": 3368
+        }
+    },
+    "regions": [
+        {
+            "id": "_hE-JxaBL",
+            "type": "POLYGON",
+            "tags": [
+                "other"
+            ],
+            "boundingBox": {
+                "height": 178.30588235294118,
+                "width": 193.22873658133773,
+                "left": 3507.8447563996697,
+                "top": 1698.3170955882354
+            },
+            "points": [
+                {
+                    "x": 3572.2543352601156,
+                    "y": 1698.3170955882354
+                },
+                {
+                    "x": 3507.8447563996697,
+                    "y": 1742.8935661764706
+                },
+                {
+                    "x": 3532.617671345995,
+                    "y": 1827.0935661764706
+                },
+                {
+                    "x": 3641.6184971098264,
+                    "y": 1876.6229779411765
+                },
+                {
+                    "x": 3701.0734929810073,
+                    "y": 1792.4229779411764
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "id": "0ad55fcabaa34abf83d82dc749051a38",
+        "format": "jpg",
+        "state": 2,
+        "type": 1,
+        "name": "IMG_20190623_132041.jpg",
+        "path": "https://surftestvott.blob.core.windows.net/input/IMG_20190623_132041.jpg?sv=2018-03-28&ss=b&srt=sco&sp=rwdlac&se=2019-09-13T23:25:10Z&st=2019-06-13T15:25:10Z&spr=https&sig=ZyIJgyVpKoohY6jGZX4Ovcj626VrPw7Cwu6uk0C0qHk%3D",
+        "size": {
+            "width": 3000,
+            "height": 4000
+        }
+    },
+    "regions": [
+        {
+            "id": "9UIFVkQjF",
+            "type": "POLYGON",
+            "tags": [
+                "other"
+            ],
+            "boundingBox": {
+                "height": 215.0537634408602,
+                "width": 478.4946236559139,
+                "left": 1120.967741935484,
+                "top": 1661.2903225806451
+            },
+            "points": [
+                {
+                    "x": 1137.0967741935483,
+                    "y": 1752.6881720430106
+                },
+                {
+                    "x": 1529.5698924731182,
+                    "y": 1661.2903225806451
+                },
+                {
+                    "x": 1599.4623655913977,
+                    "y": 1849.4623655913977
+                },
+                {
+                    "x": 1120.967741935484,
+                    "y": 1876.3440860215053
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}
