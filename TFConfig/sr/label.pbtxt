@@ -1,0 +1,12 @@
+item {
+  id: 1
+  name: "bottles"
+}
+item {
+  id: 2
+  name: "fragments"
+}
+item {
+  id: 3
+  name: "others"
+}
