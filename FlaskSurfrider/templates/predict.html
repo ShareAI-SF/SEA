@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="{{ url_for('static',filename='styles/styles.css') }}">
+		<title>predict trash</title>
+	</head>
+	<body>
+		<img src="{{ url_for('static', filename=img_predict) }}" alt= "{{ img_predict }}" width="1000" height="500" />
+		<div><a href="/">Essayer une autre image</a></div>
+	</body>
+</html>
