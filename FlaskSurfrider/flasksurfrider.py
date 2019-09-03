@@ -1,6 +1,8 @@
 from flask import Flask, render_template, request, redirect, url_for
 from werkzeug import secure_filename
 from src.functions import *
+import os
+os.environ['KMP_DUPLICATE_LIB_OK']='True'
 
 app = Flask(__name__)
 
